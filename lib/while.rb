@@ -4,9 +4,5 @@ def using_while
 		puts "Wingardium Leviosa"
 		levitation_force += 1
 		counter = 0
-	until levitation_force === 10
-	  puts "Wingardium Leviosa"
-	  levitation_force += 1
-	end
  end
 end
